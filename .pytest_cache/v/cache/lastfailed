@@ -1,0 +1,5 @@
+{
+  "script/test_myobservatory.py::TestMyobservatory::test_click": true,
+  "script/test_myobservatory.py::TestMyobservatory::test_login": true,
+  "script/test_publich_article.py::TestPublichArticle::test_login": true
+}

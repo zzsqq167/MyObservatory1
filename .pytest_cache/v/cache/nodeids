@@ -1,0 +1,6 @@
+[
+  "script/test_content_audit.py::TestPublichArticle::test_login",
+  "script/test_myobservatory.py::TestMyobservatory::test_click",
+  "script/test_myobservatory.py::TestMyobservatory::test_login",
+  "script/test_publich_article.py::TestPublichArticle::test_login"
+]
